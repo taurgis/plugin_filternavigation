@@ -3,7 +3,7 @@
 This is the repository for the plugin_filternavigation plugin. This plugin enhances the app_storefront_base cartridge by keeping track of search navigation through asynchronous actions, including the following capabilities:
 
 * Moving back and forth between filter changes
-* Go back from the PLP from a PDP without losing your location
+* Go back to the PLP from a PDP without losing your location
 
 # Demo
 [![Demonstration](http://i3.ytimg.com/vi/xfcei967Js0/hqdefault.jpg)](https://www.youtube.com/watch?v=xfcei967Js0&feature=youtu.be)
